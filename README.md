@@ -1,4 +1,4 @@
-# Web-калькулятор с использованием библиотеки Link(Sencha Touch​ ​2)[https://mail.google.com/mail/u/0/%E2%80%8Bhttp://www.sencha.com/products/touch/]
+# Web-калькулятор с использованием библиотеки Link[Sencha Touch​ ​2](https://mail.google.com/mail/u/0/%E2%80%8Bhttp://www.sencha.com/products/touch/)
 
 ### Требование
 Калькулятор должен иметь как минимум 3 специальных функций, таких как `Sinus`.
